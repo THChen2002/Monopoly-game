@@ -1,2 +1,2 @@
 # Monopoly-game
-Using Java without UI
+Using Java without GUI
